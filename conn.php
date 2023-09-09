@@ -1,8 +1,8 @@
 <?php
-$server = "postiefs.mysql.database.azure.com";
-	$username = "postiefsadmin";
-	$pass = "Welc0me@PST";
-	$db = "postiefsdb";
+$server = "excomatix.mysql.database.azure.com";
+	$username = "sqladmin";
+	$pass = "0pO(B4[G9W]F";
+	$db = "excomatix";
 
 	if(in_array($_SERVER['HTTP_HOST'],['localhost'])){
 		$server = "localhost";
