@@ -1,8 +1,8 @@
 <?php
-$server = "excomatix.mysql.database.azure.com";
-	$username = "sqladmin";
-	$pass = "0pO(B4[G9W]F";
-	$db = "excomatix";
+$server = "excomatixmsd.database.windows.net";
+	$username = "excomatixadmin";
+	$pass = "f_a62!KjZN$4p9Wy";
+	$db = "excomatixmsd";
 
 	if(in_array($_SERVER['HTTP_HOST'],['localhost'])){
 		$server = "localhost";
