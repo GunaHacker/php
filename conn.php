@@ -1,7 +1,7 @@
 <?php
 $server = "excomatixmsd.database.windows.net";
 	$username = "excomatixadmin";
-	$pass = "f_a62!KjZN$4p9Wy";
+	$pass = "f_a62!KjZN$4pk9Wy";
 	$db = "excomatixmsd";
 
 	if(in_array($_SERVER['HTTP_HOST'],['localhost'])){
